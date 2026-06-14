@@ -8,7 +8,7 @@
 
 ## Overview
 
-This is a premium, product-style version of the classic SQL + Tableau COVID portfolio project.
+This is a product-style version of the classic SQL + Tableau COVID project.
 
 Instead of only showing SQL queries and basic charts, this project turns the analysis into a modern 2026-style public health intelligence platform with:
 
@@ -134,23 +134,18 @@ covid-intelligence-platform-2026
 
 ---
 
-## Manager-Style Summary
+## Summary
 
 This dashboard helps decision-makers compare COVID impact across countries using fairer population-adjusted metrics. Instead of only showing total cases, it highlights infection rates, death rates, vaccination coverage and risk score.
 
 The analysis shows that raw totals can be misleading because larger countries naturally report more cases. By calculating infection rate and case fatality rate, the dashboard creates a better comparison across countries and continents.
 
-The final dashboard allows managers to filter by country, continent and date range to understand trends, compare outcomes and identify where vaccination progress aligned with changes in death-rate patterns.
+The final dashboard allows to filter by country, continent and date range to understand trends, compare outcomes and identify where vaccination progress aligned with changes in death-rate patterns.
 
 ---
 
-## Resume Bullet
 
-Built a premium SQL + Tableau + Streamlit COVID Intelligence Platform using public-health-style data. Cleaned and modelled raw data, wrote SQL queries using JOINs, CTEs and window functions, calculated infection rates, case fatality rates and rolling vaccination coverage, and designed modern 2026-style executive dashboards with Streamlit live demo support.
-
-
-
-## 9.8/10 Portfolio Enhancements Added
+##  Portfolio Enhancements
 
 This final version includes:
 
@@ -176,28 +171,4 @@ notebooks/03_feature_engineering.ipynb
 notebooks/04_business_insights_storytelling.ipynb
 ```
 
-## Architecture
 
-![Solution Architecture](architecture/solution_architecture.png)
-
-![Data Flow](architecture/data_flow.png)
-
-## Tableau Public
-
-After recreating the dashboard in Tableau Public, paste your link here:
-
-```text
-tableau/tableau_public_link.md
-```
-
-## Streamlit Cloud
-
-Main file path:
-
-```text
-streamlit_app/app.py
-```
-
-## Final Recruiter Rating
-
-With SQL scripts, notebooks, Tableau-ready exports, Tableau Public placeholder, modern screenshots and Streamlit demo, this project is designed to look like a strong graduate-level analytics portfolio project.
