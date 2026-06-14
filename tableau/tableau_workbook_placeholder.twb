@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook>
+  <project name="COVID Intelligence Platform 2026"/>
+  <note>This is a placeholder workbook file. Recreate dashboard in Tableau Public using data/exports/tableau_covid_intelligence_extract.csv.</note>
+</workbook>
