@@ -1,5 +1,5 @@
 # COVID Intelligence Platform 2026  
-## Premium SQL + Tableau + Streamlit Portfolio Project
+## SQL + Tableau + Streamlit Portfolio Project
 
 ![Project](https://img.shields.io/badge/Project-COVID%20Intelligence%20Platform-blue)
 ![Dashboard](https://img.shields.io/badge/Dashboard-Modern%202026%20UI-purple)
